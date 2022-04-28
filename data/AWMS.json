@@ -1,0 +1,258 @@
+[
+  {
+    "item Name": "Tap and Dice set",
+    "quantity": 2,
+    "status": "good",
+    "comment": "1 set has about two taps missing",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "item Name": "measuring tape",
+    "quantity": 9,
+    "status": "7 good 2 spoilt",
+    "comment": "the two spoilt were over stretched",
+    "recommendation": "7.5 m tape is better replacer",
+    "update": "two more spoilt"
+  },
+  {
+    "item Name": "claw hammer",
+    "quantity": 5,
+    "status": "good",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "ball pin hammer",
+    "quantity": 5,
+    "status": "good",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "item Name": "mallet",
+    "quantity": 20,
+    "status": "good",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "chipping hammer",
+    "quantity": 4,
+    "status": "good",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "hacksaw",
+    "quantity": -1,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "square file",
+    "quantity": 1,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "round file",
+    "quantity": 4,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "rough hand file",
+    "quantity": 4,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "smooth hand file",
+    "quantity": 7,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "triangular file",
+    "quantity": 5,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "Silicon gun",
+    "quantity": 2,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "wire brush",
+    "quantity": 1,
+    "status": "not good",
+    "Comment": "wires pulled off and  most bent",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "stapler gun",
+    "quantity": 3,
+    "status": "good",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "riveter",
+    "quantity": -1,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "chipping hammer",
+    "quantity": 4,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "flurring tool set",
+    "quantity": 2,
+    "status": "good",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "forming tool set",
+    "quantity": 2,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "bench vices",
+    "quantity": 8,
+    "status": "7 good 1spoilt",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "anvil",
+    "quantity": 1,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "adjustable spanners",
+    "quantity": 8,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "g clamp",
+    "quantity": 8,
+    "status": "good",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "machine vice",
+    "quantity": 1,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "Vito trolley tool box",
+    "quantity": 1,
+    "status": "good",
+    "Comment": "very few tools missing",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "King tony tool box",
+    "quantity": 1,
+    "status": "good",
+    "Comment": "very few tools missing",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "scraper",
+    "quantity": 1,
+    "status": "good",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "hand saw frame",
+    "quantity": 6,
+    "status": "good",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "spincers",
+    "quantity": 10,
+    "status": "8 good, 2 broken",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "shears",
+    "quantity": 4,
+    "status": "",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "cold chisel & punch set",
+    "quantity": 5,
+    "status": "all intact",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  },
+  {
+    "item Name": "wood circular blades",
+    "quantity": 1,
+    "status": "good",
+    "Comment": "",
+    "recommendation": "",
+    "Update": ""
+  }
+]

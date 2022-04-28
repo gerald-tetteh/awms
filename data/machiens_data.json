@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Plasma cutter",
+    "category": "Cutting",
+    "status": "faulty",
+    "quantity": 1,
+    "action": "expected cost=?",
+    "recommendation": "",
+    "comment": "electronic control not communicating with pc,"
+  },
+  {
+    "name": "Scroll Saw",
+    "category": "Cutting",
+    "status": "good",
+    "quantity": 1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Circular Saw",
+    "category": "Cutting",
+    "status": "good",
+    "quantity": 2,
+    "action": "",
+    "recommendation": "",
+    "comment": "1 in use, 1 in box"
+  },
+  {
+    "name": "Angle Grinder Big",
+    "category": "Finishing",
+    "status": "1 good 1 spoilt",
+    "quantity": 2,
+    "action": "",
+    "recommendation": "Repairs",
+    "comment": "Spoilt one at fab lab for repairs"
+  },
+  {
+    "name": "Angle Grinder Small",
+    "category": "Finishing",
+    "status": "1 good 1 with switch off",
+    "quantity": 2,
+    "action": "",
+    "recommendation": "Tried using 3D printer but was not strong",
+    "comment": ""
+  },
+  {
+    "name": "Table miter",
+    "category": "Cutting",
+    "status": "good",
+    "quantity": 1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Cut off saw",
+    "category": "Cutting",
+    "status": "good",
+    "quantity": 2,
+    "action": "",
+    "recommendation": "",
+    "comment": "1 in use 1 in box"
+  },
+  {
+    "name": "Jig Saw",
+    "category": "Cutting",
+    "status": "2 good 1 spoilt",
+    "quantity": 3,
+    "action": "",
+    "recommendation": "",
+    "comment": "At the fab lab for repairs"
+  },
+  {
+    "name": "Big Drill Press",
+    "category": "Drilling",
+    "status": "good",
+    "quantity": 1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Mig Welder",
+    "category": "Welding",
+    "status": "good",
+    "quantity": 1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Tig Welder",
+    "category": "Welding",
+    "status": "faulty",
+    "quantity": -1,
+    "action": "stick side working well  but Tig gas not following then responsible part is taken for further check.",
+    "recommendation": "",
+    "comment": "argon gas not flowing to welding torch and current still low even when increased"
+  },
+  {
+    "name": "Electrode Oven",
+    "category": "Welding",
+    "status": "damaged",
+    "quantity": -1,
+    "action": "",
+    "recommendation": "new one can be made",
+    "comment": "was miss used to burn clay for a longer time"
+  },
+  {
+    "name": "Stick (MMA) Welder",
+    "category": "Welding",
+    "status": "good",
+    "quantity": -1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Pedestal Grinder",
+    "category": "Finishing",
+    "status": "good",
+    "quantity": 1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Knuth Manual Milling Machine",
+    "category": "Milling",
+    "status": "good",
+    "quantity": -1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Knuth CNC Milling Machine",
+    "category": "Milling",
+    "status": "good",
+    "quantity": -1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Dremel tool set",
+    "category": "Miscellaneous",
+    "status": "2 sets intact but 1 has only dremel",
+    "quantity": 3,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "LPG Cylinder",
+    "category": "Miscellaneous",
+    "status": "good",
+    "quantity": 1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Oxyacetylene Cylinder",
+    "category": "Miscellaneous",
+    "quantity": -1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Oxygen Cylinder",
+    "category": "Miscellaneous",
+    "status": "good",
+    "quantity": 1,
+    "action": "",
+    "recommendation": "",
+    "comment": ""
+  },
+  {
+    "name": "Argon cylinder",
+    "category": "Miscellaneous",
+    "status": "1 good 1 faulty",
+    "quantity": 2,
+    "action": "",
+    "recommendation": "first one brought but didn’t fit so sent for change.",
+    "comment": "pressure gauge destroyed"
+  },
+  {
+    "name": "Belt Sanding",
+    "category": "Finishing",
+    "status": "faulty",
+    "quantity": 1,
+    "action": "",
+    "recommendation": "can be redesigned to new form",
+    "comment": "motor not adjustable &  not stationary"
+  },
+  {
+    "name": "Portable Sanding Machine",
+    "category": "Finishing",
+    "status": "good",
+    "quantity": 4,
+    "action": "",
+    "recommendation": "",
+    "comment": "2 in use 2 in box"
+  }
+]

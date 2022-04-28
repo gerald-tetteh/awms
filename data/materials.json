@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Big Grinding Disc",
+    "quantity": 9,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Big cutting disc",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Small cutting disc",
+    "quantity": 17,
+    "status": "5 left",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Small grinding disc",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Circular wire brush",
+    "quantity": 2,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "sand paper p120",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": "A pack bought for the year 3"
+  },
+  {
+    "name": "sand paper p80",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": "A pack bought for the year 3"
+  },
+  {
+    "name": "Stick aluminium electrode",
+    "quantity": 1,
+    "status": "faulty",
+    "comment": "Getting spoilt as not used",
+    "recommendation": "Used during skills league",
+    "update": ""
+  },
+  {
+    "name": "Stick stainless steel electrode",
+    "quantity": 5,
+    "status": "good",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Stick mild steel electrode",
+    "quantity": 8,
+    "status": "4 good/ 4 bad",
+    "comment": "moisture content around is high",
+    "recommendation": "new auto regulatable oven needed",
+    "update": "6 left but all are the big ones. Need to buy some of the small electrodes"
+  },
+  {
+    "name": "Mig mild steel electrode",
+    "quantity": 2,
+    "status": "good",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Tig tungsten electrode",
+    "quantity": 2,
+    "status": "good",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Tig filler rod stainless steel",
+    "quantity": 1,
+    "status": "good",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Tig filler rod aluminium",
+    "quantity": 1,
+    "status": "good",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Tig filler rod mild steel",
+    "quantity": 2,
+    "status": "good",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Glue sticks",
+    "quantity": 2,
+    "status": "good",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "WD 40",
+    "quantity": 9,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": "6 left"
+  },
+  {
+    "name": "wood glue",
+    "quantity": 1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "ply wood 3/4 inches",
+    "quantity": 18,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": "8 left"
+  },
+  {
+    "name": "ply wood 1/2 inches",
+    "quantity": 72,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": "66 left"
+  },
+  {
+    "name": "2 * 2 wood",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "drill bits 3mm",
+    "quantity": 19,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "1' nails",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "2' nails",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "3' nails",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "scew",
+    "quantity": 5,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "boltos and nuts 3mm",
+    "quantity": 12,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "washers",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "stapler pins",
+    "quantity": 5,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "blind revit pins(4*12 mm)",
+    "quantity": 10,
+    "status": "Not used",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "hacksaw blade",
+    "quantity": -1,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "round metal pipe 2 inches",
+    "quantity": 11,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "round metal pipe 1 1/4 inches",
+    "quantity": 12,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "round metal pipe 1 inch",
+    "quantity": 5,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "round metal pipe 3/4 inches",
+    "quantity": 10,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "PVC pipe 4 1/2 inches",
+    "quantity": 14,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "PVC pipe 1 inch",
+    "quantity": 60,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "PVC pipe 1/4 inches",
+    "quantity": 10,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "wood (2 * 2)",
+    "quantity": 10,
+    "status": "2 used",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "angle iron 3/4 inches",
+    "quantity": 4,
+    "status": "1 used",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "angle iron 1 inches",
+    "quantity": 1,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "angle iron 1 1/2 inches",
+    "quantity": 8,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "square pipe 1/2 inches",
+    "quantity": 7,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "U channel metal 1 1/2 inches",
+    "quantity": 2,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "U channel metal 2 inches",
+    "quantity": 6,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Aluminium sheet 1mm",
+    "quantity": 10,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Aluminium sheet 2mm",
+    "quantity": 10,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Plexi glass",
+    "quantity": 10,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Mild steel 10mm",
+    "quantity": 3,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Mild steel 5mm",
+    "quantity": 3,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Mild steel 3mm",
+    "quantity": 5,
+    "status": "functional",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  },
+  {
+    "name": "Mild steel 1mm",
+    "quantity": 7,
+    "status": "1 used",
+    "comment": "sufficient",
+    "recommendation": "",
+    "update": ""
+  }
+]
