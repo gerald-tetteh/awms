@@ -1,6 +1,8 @@
 require("dotenv").config();
 const express = require("express");
 const homeRoutes = require("./routes/home");
+const studentRoutes = require("./routes/student");
+const adminRoutes = require("./routes/admin");
 
 const mongoClient = require("./db/db-connect");
 
@@ -8,9 +10,11 @@ const app = express();
 
 app.set("view engine", "ejs");
 
-app.use(express.static("public"));
+app.use(express.static(__dirname + "/public"));
 
 app.use(homeRoutes);
+app.use("/students", studentRoutes);
+app.use("/admin", adminRoutes);
 
 const run = async () => {
   try {
