@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Federo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+/* font-family: 'Federo', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+/* font-family: 'Poppins', sans-serif; */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.6rem;
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+  position: relative;
+}
+a,
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1.5rem 0 8rem;
+}
+.footer__credits {
+  display: flex;
+  list-style: none;
+  margin-bottom: 0;
+  padding: 0;
+}
+.footer__credits__item {
+  margin-right: 2rem;
+  text-transform: capitalize;
+  color: #827a7a;
+}
+.footer__credits__item:first-of-type {
+  text-transform: uppercase;
+}
+.footer__img {
+  max-height: 3rem;
+  width: auto;
+  height: 100%;
+}
+.footer__country-text {
+  text-transform: uppercase;
+  margin-left: 1.5rem;
+  color: #827a7a;
+}
+.home + .footer {
+  height: 9.6rem;
+  background-color: rgba(212, 224, 236, 0.81);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

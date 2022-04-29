@@ -1,0 +1,58 @@
+.home {
+  background: url(../images/background.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  position: relative;
+}
+.home__header {
+  height: 19.7rem;
+  width: 100%;
+  background-color: rgba(211, 222, 235, 0.9);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 8rem 1.5rem;
+}
+.home__link,
+.home__link:hover {
+  color: black;
+}
+.home__heading {
+  display: flex;
+  flex-direction: column;
+}
+.home__heading span:first-of-type {
+  font-family: "Federo", sans-serif;
+  font-size: 9.6rem;
+}
+.home__header span:last-of-type {
+  font-weight: 800;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+}
+.home__header__nav-list {
+  display: flex;
+  list-style: none;
+}
+.home__header__nav__item {
+  margin-left: 3.5rem;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.home__banner {
+  position: absolute;
+  top: 35%;
+  left: 8rem;
+  color: #401c08;
+  background-color: rgba(212, 224, 236, 0.46);
+  font-family: "Poppins", sans-serif;
+  max-width: 91rem;
+  width: 100%;
+  text-transform: capitalize;
+  padding: 10rem 3rem;
+}
+.home__banner__text {
+  font-size: 4.8rem;
+}
